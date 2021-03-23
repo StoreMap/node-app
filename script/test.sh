@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ./node_modules/.bin/mocha ./test/test.js
 #chmod +x script/test
 #./script/test
